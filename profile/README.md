@@ -11,7 +11,7 @@ We advance multimodal learning and develop foundation models that understand and
 | Language-guided video pixel grounding. | [SPARROW](https://github.com/RISys-Lab/SPARROW) | [SPARROW-5B](https://huggingface.co/RISys-Lab/sparrow-finetune) | [SPARROW Dataset](https://huggingface.co/datasets/RISys-Lab/sparrow-dataset) |
 
 **Our Benchmarks**
-| 🌐 Domain | 🧪 Benchmark | 🎯 Evaluation Focus | 🤗 Dataset |
+| 🌐 Domain | 🧪 Benchmark | 🎯 Evaluation Focus | 🗂️ Dataset |
 |:---|:---|:---|:---|
 | Fire and smoke safety | [SAFIRE](https://github.com/RISys-Lab/SAFIRE) | Context-aware fire and smoke reasoning | [SAFIRE Datasets](https://huggingface.co/collections/RISys-Lab/safire-datasets-benchmarks-and-model) |
 | Multilingual text-to-image generation | [LingT2I](https://github.com/RISys-Lab/LingT2I) | Cross-lingual consistency and text rendering | [LingT2I Dataset](https://huggingface.co/datasets/RISys-Lab/LingT2I) |
