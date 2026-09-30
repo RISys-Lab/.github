@@ -15,6 +15,6 @@ We advance multimodal learning and develop foundation models that understand and
 **Our Benchmarks**
 | 🌐 Domain | 🧪 Benchmark | 🎯 Evaluation Focus | 🗂️ Dataset |
 |:---|:---|:---|:---|
-| Cybersecurity tool use on Kali Linux | [KaliBench](https://github.com/RISys-Lab/KaliBench)|Tool selection and language-to-command generation | [🔗 ↗](https://huggingface.co/collections/RISys-Lab/kalibench-datasets-and-models)|
+| Cybersecurity tool use on Kali Linux | [KaliBench](https://github.com/RISys-Lab/KaliBench)|Tool selection and natural-language-to-command generation | [🔗 ↗](https://huggingface.co/collections/RISys-Lab/kalibench-datasets-and-models)|
 | Fire and smoke safety | [SAFIRE](https://github.com/RISys-Lab/SAFIRE) | Context-aware fire and smoke reasoning | [🔗 ↗](https://huggingface.co/collections/RISys-Lab/safire-datasets-benchmarks-and-model) |
 | Multilingual text-to-image generation | [LingT2I](https://github.com/RISys-Lab/LingT2I) | Cross-lingual consistency and text rendering | [🔗 ↗](https://huggingface.co/datasets/RISys-Lab/LingT2I) |
