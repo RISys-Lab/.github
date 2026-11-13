@@ -14,7 +14,7 @@ We advance multimodal learning and develop foundation models that understand and
 
 **Our Benchmarks**
 |  🧪 Benchmark | 🗂️ Dataset |
-|:---|:---|:---|
+|:---:---|
 |  [KaliBench](https://github.com/RISys-Lab/KaliBench)| [🔗 ↗](https://huggingface.co/collections/RISys-Lab/kalibench-datasets-and-models)|
 | [SAFIRE](https://github.com/RISys-Lab/SAFIRE) | [🔗 ↗](https://huggingface.co/collections/RISys-Lab/safire-datasets-benchmarks-and-model) |
 | [LingT2I](https://github.com/RISys-Lab/LingT2I) | [🔗 ↗](https://huggingface.co/datasets/RISys-Lab/LingT2I) |
