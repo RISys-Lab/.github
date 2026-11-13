@@ -3,7 +3,7 @@
 We advance multimodal learning and develop foundation models that understand and reason about the digital and physical world. AI safety is central to our research as we work to make these systems more reliable and trustworthy.
 
 
-**Our Models**
+**Our Models:** [RedSage-K](https://github.com/RISys-Lab/KaliBench#released-models) [[8B 🤗](https://huggingface.co/RISys-Lab/RedSage-K-SFT-GRPO)]
 | 🌐 Domain | 🤖 Model | 🤗 Model Card | 🗂️ Dataset |
 |:---|:---|:---|:---|
 | Cybersecurity tool use on Kali Linux | [RedSage-K](https://github.com/RISys-Lab/KaliBench#released-models) | [8B](https://huggingface.co/RISys-Lab/RedSage-K-SFT-GRPO) | [🔗 ↗](https://huggingface.co/collections/RISys-Lab/kalibench-datasets-and-models)|
